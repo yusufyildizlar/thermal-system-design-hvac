@@ -14,11 +14,11 @@ An end-to-end mechanical engineering project focusing on the thermal system desi
 
 ## 📁 Project Structure (Phases)
 
-The comprehensive project study is documented across sequential engineering reports inside ReportMerged_merged.pdf:
+The comprehensive project study is documented across sequential engineering reports inside the technical documentation:
 
-1. **Architectural Analysis (Report 1):** Evaluation of building dimensions, floor plans, and zoning constraints.
+1. **Architectural Analysis (Report 1):** Evaluation of building dimensions, floor plans, and zoning constraints for the structure in Esenyurt.
 2. **Thermal Transmittance (Report 2):** Layer-by-layer calculations of Overall Heat Transfer Coefficients ($U$-values) for the exterior/internal walls, floor, and roof.
-3. **Heat Loss Calculations (Report 3):** Detailed space-by-space transmission, infiltration, and incremental heat loss analysis.
+3. **Heat Loss Calculations (Report 3):** Detailed space-by-space transmission, infiltration, and incremental heat loss analysis based on TS 825 regulations.
 4. **Radiator Sizing & Selection (Report 4):** Selecting and sizing panel and towel radiators using Capacity Factors ($F_k$) and catalog-based performance data.
 5. **Hydraulic Network & Pressure Drop (Report 5):** Identification of the critical circuit, pipe diameter selections, and circulation pump sizing.
 6. **Auxiliary System Sizing (Report 6):** Engineering calculations for chimney (shaft) selection and diaphragm-type expansion tank sizing.
@@ -27,9 +27,9 @@ The comprehensive project study is documented across sequential engineering repo
 ---
 
 ## 📊 Sample Visuals & Layouts
-*(Tip: Add your CAD screenshots or MTH interface screenshots here)*
-* Insert Riser Diagram
-* Insert MTH Heating Load Interfaces
+*(Tip: Add your CAD screenshots, riser diagrams, or MTH interface screenshots here to make the repository visually compelling)*
+* `![Riser Diagram](path/to/riser_diagram.png)`
+* `![MTH Interface](path/to/mth_screenshot.png)`
 
 ---
 
@@ -39,6 +39,9 @@ The comprehensive project study is documented across sequential engineering repo
 * Solving practical engineering constraints such as standard manufacturer sizing limits and building-wide pressure balances.
 
 ---
-**Advisor:** Dr. Öğr. Üyesi Muammer Kanlı  
-**Developer:** Yusuf Yıldızlar  
-*Mechanical Engineering Department, Beykent University, 2025-2026*[span_0](start_span)[span_0](end_span)
+
+<p align="center">
+  <b>Advisor:</b> Dr. Öğr. Üyesi Muammer Kanlı <br>
+  <b>Developer:</b> Yusuf Yıldızlar <br>
+  <i>Mechanical Engineering Department, Beykent University, 2025-2026</i>
+</p>
